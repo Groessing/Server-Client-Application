@@ -1,0 +1,37 @@
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Server.GUI.exe.config
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Server.GUI.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Server.GUI.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Logging.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Communication.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Server.Core.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Logging.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Communication.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Server.Core.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Server.Core.exe.config
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.FormServerMain.resources
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.Properties.Resources.resources
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.GenerateResource.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.Up2Date
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Server.GUI.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Server.GUI.exe
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Server.GUI.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Logging.dll
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Communication.dll
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Server.Core.exe
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Logging.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Communication.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Server.Core.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\bin\Debug\Socket.Server.Core.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.FormServerMain.resources
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.Properties.Resources.resources
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.GenerateResource.cache
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.csproj.Up2Date
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.exe
+C:\Mac\Home\Desktop\EchoSocketService\Server.GUI\obj\Debug\Server.GUI.pdb
