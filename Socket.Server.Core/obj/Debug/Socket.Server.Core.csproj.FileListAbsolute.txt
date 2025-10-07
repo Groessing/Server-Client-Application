@@ -1,0 +1,32 @@
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.exe.config
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.exe
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.pdb
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.exe
+C:\Users\Larissa Grössing\source\repos\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.exe.config
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Logging.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Communication.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Logging.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Communication.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.S.D8E24D23.Up2Date
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.exe
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Server.Core.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Logging.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Communication.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Logging.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\bin\Debug\Socket.Communication.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.S.D8E24D23.Up2Date
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.exe
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Server.Core\obj\Debug\Socket.Server.Core.pdb
