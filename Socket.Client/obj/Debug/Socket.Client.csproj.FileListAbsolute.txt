@@ -1,0 +1,29 @@
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Client.exe.config
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Client.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Client.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Logging.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Communication.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Logging.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Communication.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.C.94B3278D.Up2Date
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.exe
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\UI.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Client\bin\Debug\UI.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Client.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Client.exe
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Client.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Logging.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Communication.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\UI.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Logging.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\Socket.Communication.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\bin\Debug\UI.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.exe.config
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.C.94B3278D.Up2Date
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.exe
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Client\obj\Debug\Socket.Client.pdb
