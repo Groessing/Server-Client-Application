@@ -1,0 +1,12 @@
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Communication\bin\Debug\Socket.Communication.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Communication\bin\Debug\Socket.Communication.pdb
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.csproj.AssemblyReference.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.dll
+C:\Users\Larissa Grössing\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Communication\bin\Debug\Socket.Communication.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Communication\bin\Debug\Socket.Communication.pdb
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.csproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.dll
+C:\Mac\Home\Desktop\EchoSocketService\Socket.Communication\obj\Debug\Socket.Communication.pdb
